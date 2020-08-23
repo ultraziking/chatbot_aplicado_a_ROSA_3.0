@@ -1,0 +1,169 @@
+categories:
+- rosa_navigation
+conversations:
+- - let's go to the library
+  - the library is on the 4th floor, sector A, please follow me
+- - I want to go to the library
+  - the library is on the 4th floor, sector A, please follow me
+- - I'm going to the library
+  - the library is on the 4th floor, sector A, please follow me
+- - take me to the library
+  - the library is on the 4th floor, sector A, please follow me
+- - where is the library?
+  - the library is on the 4th floor, sector A, please follow me
+- - to the library
+  - the library is on the 4th floor, sector A, please follow me
+- - let's go to the secretary room
+  - the secretary room is on the 2nd floor, sector A, please follow me
+- - I want to go to the secretary room
+  - the secretary room is on the 2nd floor, sector A, please follow me
+- - I'm going to the secretary room
+  - the secretary room is on the 2nd floor, sector A, please follow me
+- - take me to the secretary room
+  - the secretary room is on the 2nd floor, sector A, please follow me
+- - where is the secretary room?
+  - the secretary room is on the 2nd floor, sector A, please follow me
+- - to the secretary room
+  - the secretary room is on the 2nd floor, sector A, please follow me
+- - let's go to crea
+  - crea is on the 2nd floor, sector B, please follow me
+- - I want to go to crea
+  - crea is on the 2nd floor, sector B, please follow me
+- - I'm going to crea
+  - crea is on the 2nd floor, sector B, please follow me
+- - take me to crea
+  - crea is on the 2nd floor, sector B, please follow me
+- - where is crea?
+  - crea is on the 2nd floor, sector B, please follow me
+- - to crea
+  - crea is on the 2nd floor, sector B, please follow me
+- - take me to the toilet
+  - I will guide you to the closest one, follow me please
+- - I want to go to the toilet
+  - I will guide you to the closest one, follow me please
+- - where is the toilet?
+  - I will guide you to the closest one, follow me please
+- - I am going to the toilet
+  - I will guide you to the closest one, follow me please
+- - let's go to the cafeteria
+  - the cafeteria is on the 2nd floor, sector A, please follow me
+- - I want to go to the cafeteria
+  - the cafeteria is on the 2nd floor, sector A, please follow me
+- - I'm going to the cafeteria
+  - the cafeteria is on the 2nd floor, sector A, please follow me
+- - take me to the cafeteria
+  - the cafeteria is on the 2nd floor, sector A, please follow me
+- - where is the cafeteria?
+  - the cafeteria is on the 2nd floor, sector A, please follow me
+- - to the cafeteria
+  - the cafeteria is on the 2nd floor, sector A, please follow me
+- - let's go to the concierge room
+  - the concierge room is at the entrace, please follow me
+- - I want to go to the concierge room
+  - the concierge room is at the entrace, please follow me
+- - I'm going to the concierge room
+  - the concierge room is at the entrace, please follow me
+- - take me to the concierge room
+  - the concierge room is at the entrace, please follow me
+- - where is the concierge room?
+  - the concierge room is at the entrace, please follow me
+- - to the concierge room
+  - the concierge room is at the entrace, please follow me
+- - let's go to the internship office
+  - the internship office is on the 2nd floor, sector A, please follow me
+- - I want to go to the intership office
+  - the internship office is on the 2nd floor, sector A, please follow me
+- - I'm going to the internship office
+  - the internship office is on the 2nd floor, sector A, please follow me
+- - take me to the internship office
+  - the internship office is on the 2nd floor, sector A, please follow me
+- - where is the internship office?
+  - the internship office is on the 2nd floor, sector A, please follow me
+- - to the internship office
+  - the internship office is on the 2nd floor, sector A, please follow me
+- - let's go to the publications store
+  - the publications store is on the 1st floor, sector B, please follow me 
+- - I want to go to the publications store
+  - the publications store is on the 1st floor, sector B, please follow me
+- - I'm going to the publications store
+  - the publications store is on the 1st floor, sector B, please follow me
+- - take me to the publications store
+  - the publications store is on the 1st floor, sector B, please follow me
+- - where is the publications store?
+  - the publications store is on the 1st floor, sector B, please follow me
+- - to the publications store
+  - the publications store is on the 1st floor, sector B, please follow me
+- - where is the photocopier?
+  - the photocopier is on the 1st floor, sector B, please follow me 
+- - I want to use photocopier
+  - the photocopier is on the 1st floor, sector B, please follow me 
+- - I'm looking for a photocopier
+  - the photocopier is on the 1st floor, sector B, please follow me 
+- - I want to see your 3D printer
+  - our 3D printer is in the project lab, please follow me
+- - where is your 3D printer?
+  - our 3D printer is in the project lab, please follow me
+- - I'm looking for the 3D printer
+  - our 3D printer is in the project lab, please follow me
+- - take me to see the 3D printer
+  - our 3D printer is in the project lab, please follow me
+- - let's go to the project lab
+  - the project lab is on the floor -1, sector B, please follow me
+- - I want to go to the project lab
+  - the project lab is on the floor -1, sector B, please follow me
+- - I'm going to the project lab
+  - the project lab is on the floor -1, sector B, please follow me
+- - take me to the project lab
+  - the project lab is on the floor -1, sector B, please follow me
+- - where is the project lab?
+  - the project lab is on the floor -1, sector B, please follow me
+- - to the project lab
+  - the project lab is on the floor -1, sector B, please follow me
+- - I want to see the painter robot
+  - the painter robot is in the project lab, please follow me 
+- - where is the painter robot?
+  - the painter robot is in the project lab, please follow me 
+- - I'm looking for the painter robot
+  - the painter robot is in the project lab, please follow me 
+- - take me to see the painter robot
+  - the painter robot is in the project lab, please follow me 
+- - I want to see the industrial robot
+  - the industrial robot is in the project lab, please follow me 
+- - where is the industrial robot?
+  - the industrial robot is in the project lab, please follow me 
+- - I'm looking for the industrial robot
+  - the industrial robot is in the project lab, please follow me 
+- - take me to see the industrial robot
+  - the industrial robot is in the project lab, please follow me  
+- - could you go faster?
+  - of course, I will accelerate
+- - can you go faster?
+  - of course, I will accelerate
+- - go faster please
+  - of course, I will accelerate
+- - go faster
+  - of course, I will accelerate
+- - faster
+  - of course, I will accelerate
+- - accelerate please
+  - of course, I will accelerate
+- - accelerate
+  - of course, I will accelerate
+- - can you go slower?
+  - of course, I will decelerate
+  - of course, I will speed down
+- - could you go slower?
+  - of course, I will decelerate
+  - of course, I will speed down
+- - go slower please
+  - of course, I will decelerate
+  - of course, I will speed down
+- - speed down please
+  - of course, I will decelerate
+  - of course, I will speed down
+- - decalerate please
+  - of course, I will decelerate
+  - of course, I will speed down
+- - go slower
+  - of course, I will decelerate
+  - of course, I will speed down
